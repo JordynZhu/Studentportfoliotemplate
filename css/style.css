@@ -2,6 +2,7 @@
 #hero {
     background: linear-gradient(to right, #007bff, #00b7ff);
     height: 100vh;
+    padding-top: 100px;
 }
 
 /* Navbar */
